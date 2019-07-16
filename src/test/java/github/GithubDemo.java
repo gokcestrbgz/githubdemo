@@ -27,6 +27,13 @@ public class GithubDemo {
         System.out.println(reversed);
 
 
+        System.out.println("herhangi bir seyler ");
+
+        System.out.println("test case 5 ");
+
+        System.out.println("test case 6");
+
+
 
     }
 

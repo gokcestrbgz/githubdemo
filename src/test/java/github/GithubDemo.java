@@ -1,5 +1,7 @@
 package github;
 
+import java.sql.SQLOutput;
+
 public class GithubDemo {
     public static void main(String[] args) {
         System.out.println("hello github");
@@ -15,6 +17,14 @@ public class GithubDemo {
 
 
         System.out.println("Changes by Rabis");
+
+        String str = "araba";
+
+        StringBuilder sb = new StringBuilder(str);
+        sb.reverse();
+
+        String reversed = sb.toString();
+        System.out.println(reversed);
 
 
 

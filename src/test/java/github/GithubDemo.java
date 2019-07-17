@@ -35,8 +35,6 @@ public class GithubDemo {
 
         System.out.println("7/17/2019 new day new codes");
 
-        System.out.println("testcase8");
-
 
 
     }
